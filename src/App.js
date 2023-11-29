@@ -87,6 +87,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>version 1.1</h1>
       <Auth />
 
       <div>
